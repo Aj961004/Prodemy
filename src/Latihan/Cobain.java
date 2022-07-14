@@ -14,7 +14,7 @@ public class Cobain {
                     h = j +1;
                     System.out.print(h);
                 } else{
-                    System.out.print("+");
+                    System.out.print(" + ");
                 }
             }
         }
